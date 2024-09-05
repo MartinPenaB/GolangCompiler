@@ -1,0 +1,3 @@
+C:/Users/jmmyb/Downloads/A32/A32 Code/code/out/build/x64-Debug/CMakeFiles/Compiler.dir
+C:/Users/jmmyb/Downloads/A32/A32 Code/code/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/jmmyb/Downloads/A32/A32 Code/code/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,22 @@
+//Go-Simple Example
+//The program is lexically correct about the Go-Simple city 
+
+
+
+	package main
+
+	import "fmt"
+
+	// Main function
+	func main() {
+		
+		var FoundationYear int32
+		var Area, HDI float32
+		var CountryName string
+		
+		FoundationYear = -7000
+		Area = 492.0
+		HDI = 0.871
+		CountryName = "Bulgary"
+			Println(CountryName)
+	}

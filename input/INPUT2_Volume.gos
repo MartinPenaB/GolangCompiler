@@ -1,0 +1,19 @@
+// Go-Simple Example 3:
+// Volume of a sphere 
+  
+  
+	package main
+
+	import "fmt"
+	
+	func main() {
+	
+	var PI float32 = 3.14
+	var r float32
+	var Vol float32
+	
+		Scanln(&r)
+		Vol = 4.0 / 3.0 * PI * (r * r * r)
+		Printf("%.2f\n", Vol)
+	}
+	

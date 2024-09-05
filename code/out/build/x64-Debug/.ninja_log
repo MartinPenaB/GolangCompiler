@@ -1,0 +1,9 @@
+# ninja log v5
+12	174	7238664150618606	CMakeFiles/Compiler.dir/Reader.c.obj	44142cd66c7f35e6
+29	151	7238706550509784	CMakeFiles/Compiler.dir/Scanner.c.obj	dce1e6534d92f13a
+30	188	7238664150713713	CMakeFiles/Compiler.dir/MainScanner.c.obj	85ce37cf34e46384
+25	187	7241066403851759	CMakeFiles/Compiler.dir/Parser.c.obj	8528b4fd8ed9782c
+8	188	7238664150633218	CMakeFiles/Compiler.dir/Compilers.c.obj	99a186058597b3a4
+17	197	7238664150839593	CMakeFiles/Compiler.dir/MainReader.c.obj	b2bdac6bd2d9412b
+38	130	7241065385643633	CMakeFiles/Compiler.dir/MainParser.c.obj	49b737177e8ff39f
+39	258	7285420355248982	Compiler.exe	a8634e36a9447b52

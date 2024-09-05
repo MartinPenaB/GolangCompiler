@@ -1,0 +1,24 @@
+// Go-Simple Example 4:
+//  Testing numbers (ex: factorial)
+  
+	package main
+
+	import "fmt"
+
+	// Main function
+	func main() {
+		
+		var i, n, f int32 = 0, 0, 0
+		f=1
+		i=1
+			Println("Write a number: ")
+		
+		for i < n {
+        f = f * i
+        i = i + 1
+		}
+		
+			Println("Factorial:")
+			Pritnln(f);
+	}
+  
